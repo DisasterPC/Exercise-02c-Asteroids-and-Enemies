@@ -1,5 +1,5 @@
 # Exercise-02c-Asteroids-and-Enemies
-Exercise for MSCH-C220, 14 September 2021
+Exercise for Tyler Fields, 14 September 2021
 
 A simple 2D space game exploring Godot collisions and Physics Bodies.
 
@@ -17,4 +17,4 @@ Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/conte
 None
 
 ## Created by 
-Jason Francis
+Tyler Fields
